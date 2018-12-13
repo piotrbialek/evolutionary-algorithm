@@ -1,0 +1,8 @@
+C:\Users\Professional\source\repos\algorytmEwolucyjny\algorytmEwolucyjny\bin\Debug\algorytmEwolucyjny.exe.config
+C:\Users\Professional\source\repos\algorytmEwolucyjny\algorytmEwolucyjny\bin\Debug\algorytmEwolucyjny.exe
+C:\Users\Professional\source\repos\algorytmEwolucyjny\algorytmEwolucyjny\bin\Debug\algorytmEwolucyjny.pdb
+C:\Users\Professional\source\repos\algorytmEwolucyjny\algorytmEwolucyjny\obj\Debug\algorytmEwolucyjny.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\algorytmEwolucyjny\algorytmEwolucyjny\obj\Debug\algorytmEwolucyjny.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\algorytmEwolucyjny\algorytmEwolucyjny\obj\Debug\algorytmEwolucyjny.exe
+C:\Users\Professional\source\repos\algorytmEwolucyjny\algorytmEwolucyjny\obj\Debug\algorytmEwolucyjny.pdb
+C:\Users\Professional\source\repos\algorytmEwolucyjny\algorytmEwolucyjny\obj\Debug\algorytmEwolucyjny.csproj.ResolveComReference.cache
